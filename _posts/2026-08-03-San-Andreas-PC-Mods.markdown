@@ -35,11 +35,10 @@ Modlist
 - [Large Address Aware](https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/)
     - alt: [Universal 32bit PAE patcher](https://www.techpowerup.com/forums/threads/large-address-aware.112556/)
 - [FramerateVigilante](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/)
-- [MixSets]
+- [MixSets](https://www.mixmods.com.br/2022/03/sa-mixsets/)
 - [Project2DFX](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - Widescreen Fix Dev build required for compatibility
 - [skygfx](https://www.mixmods.com.br/2024/03/sa-skygfx/)
     - [Original source](https://github.com/aap/skygfx/releases)
-    - [Documentation](http://gta.rockstarvision.com/skygfx/skygfx.html)
 - [Improved Streaming](https://www.mixmods.com.br/2026/07/improved-streaming/)
 - [Open Limit Adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
 - [Proper Fixes](https://www.mixmods.com.br/2022/03/sa-proper-fixes/)
