@@ -122,7 +122,7 @@ Filesystem list
 
 Excluding base game files. Steam launches gta-sa.exe
 
-```
+```console
 ├── bass.dll
 ├── cleo
 │   ├── cleo_modules
