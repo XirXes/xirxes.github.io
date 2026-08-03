@@ -70,14 +70,6 @@ ReplaceTextShadowWithOutline = 2
 ```
 
 - Modloader - can be adjusted manually in game. 
-Intended load order
-    1. Skygfx
-    2. Proper Fixes
-    3. Open Limit Adjuster
-    4. Mix Sets
-    5. Everything Else
-    6. Silent Patch - This loads last to ensure it's fixes override other mods.
-
 `modloader\modloader.ini`
 ```
 [Profiles.Default.Priority]
@@ -87,6 +79,13 @@ proper fixes = 70
 silentpatch = 49
 skygfx = 80
 ```
+Intended load order
+    1. Skygfx
+    2. Proper Fixes
+    3. Open Limit Adjuster
+    4. Mix Sets
+    5. Everything Else
+    6. Silent Patch - This loads last to ensure it's fixes override other mods.
 
 - MixSets - Most of these are just commenting out settings with a # to enforce the games original behavior. Season to taste.
 `modloader\MixSets\MixSets.ini`
