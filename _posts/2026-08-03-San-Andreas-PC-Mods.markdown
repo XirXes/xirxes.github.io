@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GTA San Andreas - XirXes' Recommended Modlist"
+title:  "GTA San Andreas - Xiyl's Recommended Modlist"
 ---
 [![CJ enjoying an LS sunrise](/assets/img/SA-Modded-small.jpg)](https://www.xiyl.cc/assets/img/SA-Modded-full.jpg)
 
