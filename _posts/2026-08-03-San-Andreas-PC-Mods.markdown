@@ -66,7 +66,6 @@ ControlsSet=2
 `scripts/GTASA.WidescreenFix.ini`
 ```
 NoCutsceneBorderAnimation = 1
-
 ReplaceTextShadowWithOutline = 2
 ```
 
@@ -424,6 +423,5 @@ Excluding base game files. Steam launches gta-sa.exe
 ├── vorbis.dll
 ├── vorbisFile.dll
 └── vorbisHooked.dll
-
 ```
 
